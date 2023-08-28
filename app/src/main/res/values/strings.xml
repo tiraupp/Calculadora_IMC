@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculadora_IMC</string>
+    <string name="tituloApp">Calculadora de IMC</string>
+    <string name="btnCalc">Calcular IMC</string>
+    <string name="labelNome">Nome</string>
+    <string name="labelPeso">Peso</string>
+    <string name="labelAltura">Altura</string>
+
+
+    <string name="labelResultadoPercentualGordura">Resultado do Cálculo IMC</string>
+    <string name="labelTituloFormTeste">IMC</string>
+    <string name="labelBotaoVoltar">Voltar</string>
+
+
+    <string name="contentDescriptionPeso">Peso(em quilos)</string>
+    <string name="contentDescriptionAltura">Altura(em centímetros)</string>
+    <string name="contentDescriptionNome">Seu nome</string>
+
+    <string name="contentDescriptionSexo">Informe o sexo</string>
+    <string name="contentDescriptionResultadosTestePercentualGordura">Resultado do teste de IMC</string>
+    <string name="labelTextTitleResultTestPercentualGordura">Resultado do IMC</string>
+    <string name="labelTextViewHeaderDensidadeCorporal">SEU IMC</string>
+</resources>
